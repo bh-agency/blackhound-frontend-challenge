@@ -1,0 +1,386 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" id="svg587" sodipodi:docname="BH_Logo.svg" inkscape:export-filename="BH_Logo.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)" viewBox="67.8 45.03 240.9 265.2">
+   <sodipodi:namedview id="namedview160" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="2.2009051" inkscape:cx="190.83058" inkscape:cy="179.92598" inkscape:window-width="1387" inkscape:window-height="942" inkscape:window-x="0" inkscape:window-y="25" inkscape:window-maximized="0" inkscape:current-layer="svg587"/>
+   <defs id="defs591">
+      <linear-leftGradient id="SVGID_1_-5" gradientUnits="userSpaceOnUse" x1="28.6623" y1="84.137497" x2="102.6368" y2="84.137497">
+         <stop offset="0" style="stop-color:#000000" id="stop500-9"/>
+         <stop offset="0.9251" style="stop-color:#535353" id="stop502-4"/>
+      </linear-leftGradient>
+      <linear-leftGradient id="SVGID_2_-3" gradientUnits="userSpaceOnUse" x1="56.315899" y1="124.5139" x2="60.506901" y2="124.5139">
+         <stop offset="0" style="stop-color:#000000" id="stop508-9"/>
+         <stop offset="0.9251" style="stop-color:#535353" id="stop510-0"/>
+      </linear-leftGradient>
+      <linearGradient id="SVGID_1_-5" gradientUnits="userSpaceOnUse" x1="28.6623" y1="84.137497" x2="102.6368" y2="84.137497">
+         <stop offset="0" id="stop500-9"/>
+         <stop offset="0.9251" id="stop502-4"/>
+      </linearGradient>
+      <linearGradient id="SVGID_2_-3" gradientUnits="userSpaceOnUse" x1="56.315899" y1="124.5139" x2="60.506901" y2="124.5139">
+         <stop offset="0" id="stop508-9"/>
+         <stop offset="0.9251" id="stop510-0"/>
+      </linearGradient>
+   </defs>
+   <style type="text/css" id="style324">
+	.st0{fill:#E83179;}
+	.st1{fill:#212121;}
+	.st2{fill:#2A2A2A;stroke:#2A2A2A;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#626262;}
+	.st4{fill:#939393;}
+	.st5{fill:#C0C0C0;}
+	.st6{fill:#2D2D2D;}
+	.st7{fill:#575757;}
+	.st8{fill:#E6E6E6;}
+	.st9{fill:#BFBFBF;}
+	.st10{fill:#373737;}
+	.st11{fill:#2A2A2A;}
+	.st12{fill:#FDFDFD;}
+	.st13{fill:#525252;}
+	.st14{fill:#787878;}
+	.st15{fill:#B4B4B4;}
+	.st16{fill:#6E6E6E;}
+	.st17{fill:#999999;}
+	.st18{fill:#6D6D6D;}
+	.st19{fill:#7A7A7A;}
+	.st20{fill:#AFAFAF;}
+	.st21{fill:#4E4E4E;}
+	.st22{fill:#424242;}
+	.st23{fill:#B5B5B5;}
+	.st24{fill:#747474;}
+	.st25{fill:#737373;}
+	.st26{fill:#E3E3E3;}
+	.st27{fill:#858585;}
+	.st28{fill:#414141;}
+	.st29{fill:#242424;}
+	.st30{fill:#3A3A3A;}
+	.st31{fill:#B6B6B6;}
+	.st32{fill:#5F5F5F;}
+	.st33{fill:#232323;}
+	.st34{fill:#7C7C7C;}
+	.st35{fill:#C2C2C2;}
+	.st36{fill:#515151;}
+	.st37{fill:#C4C4C4;}
+	.st38{fill:#000000;}
+	.st39{fill:#000000;}
+	.st40{fill:#A1A1A1;}
+	.st41{fill:#535353;}
+	.st42{fill:#4B4B4B;}
+	.st43{fill:#898989;}
+	.st44{fill:#656565;}
+	.st45{fill:#1D1D1D;}
+	.st46{fill:#010101;}
+	.st47{fill:#F8F8F8;}
+	.st48{fill:#C1C1C1;}
+	.st49{fill:#444444;}
+
+    .mouth {
+        -webkit-animation: mouth-animation 3s ease-in-out infinite alternate;
+        animation: mouth-animation 3s ease-in-out infinite alternate;
+   }
+    @-webkit-keyframes mouth-animation {
+        0% {
+            -webkit-transform: translate(0, 0) rotate(0);
+            transform: translate(0, 0) rotate(0);
+            -webkit-transform-origin: center;
+            transform-origin: center;
+       }
+        100% {
+            -webkit-transform: translate(-8px, 5px) rotate(10deg);
+            transform: translate(-8px, 5px) rotate(10deg);
+            -webkit-transform-origin: center;
+            transform-origin: center;
+       }
+   }
+    @keyframes mouth-animation {
+        0% {
+            -webkit-transform: translate(0, 0) rotate(0);
+            transform: translate(0, 0) rotate(0);
+            -webkit-transform-origin: center;
+            transform-origin: center;
+       }
+        100% {
+            -webkit-transform: translate(-8px, 5px) rotate(10deg);
+            transform: translate(-8px, 5px) rotate(10deg);
+            -webkit-transform-origin: center;
+            transform-origin: center;
+       }
+   }
+    .ear-left-outer {
+        -webkit-animation: ear-animation 3s ease-in-out 0s infinite alternate;
+        animation: ear-animation 3s ease-in-out 0s infinite alternate;
+    }
+    .ear-left-inner-top {
+        -webkit-animation: ear-animation 3s ease-in-out 0s infinite alternate;
+        animation: ear-animation 3s ease-in-out 0s infinite alternate;
+   }
+    .ear-left-inner-mid {
+        -webkit-animation: ear-animation 3s ease-in-out 0s infinite alternate;
+        animation: ear-animation 3s ease-in-out 0s infinite alternate;
+   }
+    .ear-left-inner-bottom {
+        -webkit-animation: ear-animation 3s ease-in-out 0s infinite alternate;
+        animation: ear-animation 3s ease-in-out 0s infinite alternate;
+   }
+    .ear-left-inner-bottom {
+        -webkit-animation: ear-animation 3s ease-in-out 0s infinite alternate;
+        animation: ear-animation 3s ease-in-out 0s infinite alternate;
+   }
+    .ear-right {
+        -webkit-animation: ear-animation 3s ease-in-out 0s infinite alternate;
+        animation: ear-animation 3s ease-in-out 0s infinite alternate;
+   }
+    @-webkit-keyframes ear-animation {
+        0% {
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px);
+       }
+        100% {
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            -webkit-transform: translate(10px, 10px) rotate(-10deg);
+            transform: translate(10px, 10px) rotate(-10deg);
+       }
+   }
+    @keyframes ear-animation {
+        0% {
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px);
+       }
+        100% {
+            -webkit-transform-origin: center;
+            transform-origin: center;
+            -webkit-transform: translate(10px, 10px) rotate(-10deg);
+            transform: translate(10px, 10px) rotate(-10deg);
+       }
+   }
+   </style>
+
+   <g id="g2632" transform="translate(-27.996782,-328.23813)">
+      <g id="Слой_72-5" transform="translate(95.701006,372.97289)">
+         <path class="st2" d="m 219.7,38.6 -0.2,-0.2 -0.3,-0.3 v 0 0 L 200.5,24 V 24.1 21 l 14,-5.4 1.3,8.9 v 0 c 1.6,8.2 3.8,13.9 3.9,14.1 z" id="path356-6"/>
+      </g>
+      <g id="Слой_52-3" transform="translate(95.701006,372.97289)">
+         <path class="st3" d="m 183.8,146.3 0.7,6.2 -0.6,0.4 -44.9,25.1 -1,-2 c 0,0 0.1,-0.2 0.1,-0.3 0,0 0,0 0,0 L 158,142 h 0.3 l 1.7,-1 z" id="path359-6"/>
+      </g>
+      <g id="Слой_27-3" transform="translate(95.701006,372.97289)">
+         <path class="st4 ear-left-inner-bottom" d="M 67.8,107.9 64,117.8 C 58.7,109.9 41,90 38,70 Z" id="path362-0"/>
+      </g>
+      <g id="Слой_78-8" transform="translate(95.701006,372.97289)">
+         <path class="st5" d="M 241,42.9 236.3,66.2 227.2,50.7 220,40 219,39 c 14.5,-7.6 16.7,-12.1 16.7,-12.1 0,0.2 5.3,16 5.3,16 z" id="path365-4"/>
+      </g>
+      <g id="Слой_77-0" transform="translate(95.701006,372.97289)">
+         <polygon class="st6" points="204.3,4.4 206.1,0.3 225.2,2.9 227.7,5.6 " id="polygon368-4"/>
+      </g>
+      <g id="Слой_25-6" transform="translate(95.701006,372.97289)">
+         <path class="st7 ear-left-inner-mid" d="m 86,80 -17.2,29.9 -29.7,-37 -1,-1 C 38,71.4 37.9,70.8 37.8,70.3 37.7,69.6 37.6,69 37.4,68.3 Z" id="path371-4"/>
+      </g>
+      <g id="Слой_76-6" transform="translate(95.701006,372.97289)">
+         <polygon class="st8" points="200.2,25.8 190.1,81.6 190,81.6 187.4,82 180.3,43.5 179.9,41.5 179,36 185.9,32.7 200.5,24 200.5,24.1 200.4,24.7 200.3,25.3 " id="polygon374-4"/>
+      </g>
+      <g id="Слой_74-3" transform="translate(95.701006,372.97289)">
+         <polygon class="st9" points="219.7,38.6 219.5,38.5 219.2,38.2 200.5,24 200.5,24.1 200.4,24.7 200.3,25.3 200.2,25.8 190.1,81.6 190.3,81.6 220.4,39.2 219.9,38.8 " id="polygon378-8"/>
+      </g>
+      <g id="Слой_73-4" transform="translate(95.701006,372.97289)">
+         <path d="m 220,30 c 0,0 -0.3,8.6 -0.3,8.6 -0.1,-0.2 -2.3,-5.9 -3.9,-14.2 L 214,16 l -16.3,6.1 2.5,-7.5 4,-10.3 23.4,1.2 6,9.6 v 9.1 c -0.4,-0.4 -8.7,-8.3 -8.7,-8.3 z" id="path381-0"/>
+      </g>
+      <g id="Слой_59-4" transform="translate(95.701006,372.97289)">
+         <path class="st19" d="m 231.9,105.1 -1,28.3 -4.9,22.6 -2,1 -8.3,-21.9 0.6,-1.3 c 0,-0.1 0.1,-0.2 0.1,-0.3 0.5,-1.2 1,-2.3 1.5,-3.4 0.4,-0.8 0.7,-1.6 1.1,-2.4 0.4,-0.8 0.7,-1.5 1,-2.3 4.5,-9.8 8.2,-16.8 10.2,-18.9 0,0 0,0 0,0 l 0.6,-0.6 c 0.1,-0.1 0.8,-0.6 1.1,-0.8 z" id="path415-2"/>
+         <polygon class="st19" points="215.7,135 216.2,133.7 215.7,135.1 " id="polygon417-1"/>
+      </g>
+      <g id="Слой_69-0" transform="translate(95.701006,372.97289)">
+         <path class="st10 mouth" d="m 209,86 -48,51.9 c -0.1,-0.7 -0.1,-1.7 -0.2,-3 l 0.1,-1 45.3,-60.7 h 0.2 c 0.4,3.8 2.3,12.9 2.6,12.8 z" id="path385-9"/>
+      </g>
+      <g id="Слой_70-3" transform="translate(95.701006,372.97289)">
+         <path class="st11" d="m 235.7,26.9 c 0,0 -0.9,3.8 -15.4,11.4 v 0 c -0.1,0 -0.2,0.1 -0.3,0.2 -0.1,0 -0.2,0.1 -0.3,0.1 v -8.1 c 0,0 2,-9.7 5.4,-15.2 0,0 1.2,1.2 1.5,1.5 0,0 0.1,0.1 0.1,0.1 0.1,0.1 0.3,0.3 0.4,0.4 0.1,0.1 0.1,0.1 0.2,0.2 0.3,0.3 0.6,0.6 0.9,0.9 0.1,0.1 0.2,0.2 0.3,0.3 0.6,0.6 1.2,1.2 1.7,1.8 0.1,0.1 0.3,0.3 0.4,0.4 0.1,0.1 0.2,0.2 0.3,0.4 0.3,0.4 0.7,0.7 1,1.1 0.2,0.2 0.4,0.5 0.6,0.7 0.4,0.5 0.8,0.9 1.2,1.3 1.1,1.1 1.8,2.1 2,2.5 z" id="path388-7"/>
+      </g>
+      <g id="Слой_68-5" transform="translate(95.701006,372.97289)">
+         <path class="st12" d="m 161.9,140.6 c 0,0.1 -0.1,0.2 -0.1,0.2 -0.8,1.3 -3.5,1.3 -3.5,1.3 l -39.1,6.2 c -0.1,0 -0.1,0 -0.1,0 l 37.9,-60.6 3.1,20.8 c 0,0 0.2,18.1 0.6,26.4 0.1,1.3 0.1,2.3 0.2,3 0,0 0,0 0,0 0,0.3 0.1,0.5 0.1,0.7 0.2,0.9 1.1,1.5 0.9,2 z" id="path391-7"/>
+      </g>
+      <g id="Слой_66-2" transform="translate(95.701006,372.97289)">
+         <path class="st13 mouth" d="m 237.5,83.6 c 0,0 -22.7,0.1 -29.5,1.4 -0.3,0.1 -1.2,-7 -1.6,-10.9 0,-0.1 -0.4,-1.1 -0.4,-1.1 0,0 11.9,1.8 20.6,-2.6 0.1,-0.1 0.3,-0.1 0.4,-0.2 l 0.4,0.2 6.6,8.6 1.4,2.1 z" id="path394-9"/>
+      </g>
+      <g id="Слой_65-7" transform="translate(95.701006,372.97289)">
+         <path class="st14 mouth" d="m 230.9,105.8 -0.6,0.6 c 0,0 0,0 0,0 L 187,147 l -28.7,-4.9 2.5,-1.2 7,-3.5 62.6,-31.2 v 0 z" id="path397-5"/>
+      </g>
+      <g id="Слой_64-6" transform="translate(95.701006,372.97289)">
+         <path class="st15" d="m 197,179 5.2,-12.1 c 0,-0.1 0,-0.1 0,-0.1 l 13.4,-31.7 8.4,21.9 z" id="path400-5"/>
+      </g>
+      <g id="Слой_61-3" transform="translate(95.701006,372.97289)">
+         <g id="g406-0">
+            <path class="st16" d="m 230.3,106.4 c -2.1,2.2 -5.7,9.1 -10.2,18.9 -0.3,0.8 -0.7,1.5 -1,2.3 -0.3,0.8 -0.7,1.6 -1.1,2.4 -0.5,1.1 -1,2.2 -1.5,3.4 0,0.1 -0.1,0.2 -0.1,0.3 l -0.6,1.3 -13.4,31.7 c 0,0 0,0.1 0,0.1 l -4.1,10.5 -0.1,0.3 c 0,0 -11.6,28.9 -21.9,54.9 0,0 0,0 0,0 -2.7,12.1 -11.1,29.4 -12.7,32.8 0,0 0,0 0,0 l -0.5,-0.6 -1.1,-3.7 c 0,-0.1 0,-0.2 0,-0.3 0.7,-9.6 19.8,-107.7 19.8,-107.7 l 0.6,-0.3 1.3,-6.2 z" id="path404-4"/>
+         </g>
+      </g>
+      <g id="Слой_67-8" transform="translate(95.701006,372.97289)">
+         <path class="st17 mouth" d="m 240.3,87.7 -8.3,17.4 c -0.3,0.3 -0.3,0.5 -1,0.9 l -3,2 -60,30 c -4.2,2 -7,3 -7,3 0.2,-0.5 0.2,-1.5 0.1,-2.4 0,-0.2 -0.1,-0.4 -0.1,-0.7 0,0 0,0 0,0 L 208,84 c 6.8,-1.2 29.6,-0.4 29.6,-0.4 z" id="path409-5"/>
+      </g>
+      <g id="Слой_60-5" transform="translate(95.701006,372.97289)">
+         <path class="st18" d="m 216.2,133.7 -0.6,1.3 -13.4,31.7 c 4.7,-11.5 9.3,-22.4 13.4,-31.7 z" id="path412-5"/>
+      </g>
+      <g id="Слой_59-4" transform="translate(95.701006,372.97289)">
+         <path class="st19" d="m 231.9,105.1 -1,28.3 -4.9,22.6 -2,1 -8.3,-21.9 0.6,-1.3 c 0,-0.1 0.1,-0.2 0.1,-0.3 0.5,-1.2 1,-2.3 1.5,-3.4 0.4,-0.8 0.7,-1.6 1.1,-2.4 0.4,-0.8 0.7,-1.5 1,-2.3 4.5,-9.8 8.2,-16.8 10.2,-18.9 0,0 0,0 0,0 l 0.6,-0.6 c 0.1,-0.1 0.8,-0.6 1.1,-0.8 z" id="path415-2"/>
+         <polygon class="st19" points="215.7,135 216.2,133.7 215.7,135.1 " id="polygon417-1"/>
+      </g>
+      <g id="Слой_58-9" transform="translate(95.701006,372.97289)">
+         <path class="st20" d="m 162.9,260.8 0.4,4.6 L 139,177 v 0 l 43.8,-24 c 0,0 -19.6,100 -19.9,107.8 z" id="path420-2"/>
+      </g>
+      <g id="Слой_56-4" transform="translate(95.701006,372.97289)">
+         <path class="st21" d="m 213.4,205.6 -5.4,35.9 -5.1,-22.8 -39.3,46.2 -0.1,0.2 c 2.8,-7.7 7.5,-19.7 12.5,-32.4 0,0 0,0 0,0 10.3,-26 21.9,-54.9 21.9,-54.9 l 15.3,27.8 z" id="path424-5"/>
+      </g>
+      <g id="Слой_55-8" transform="translate(95.701006,372.97289)">
+         <polygon class="st3" points="212.3,206.5 198,178 224,157 221.9,224.2 214,210 " id="polygon427-6"/>
+      </g>
+      <g id="Слой_54-2" transform="translate(95.701006,372.97289)">
+         <polygon class="st22" points="163.3,265.4 163.3,265.5 163.3,265.4 162.8,264.8 132.5,227.5 139,176.8 139,176.6 139.1,177 162,260.7 " id="polygon430-5"/>
+      </g>
+      <g id="Слой_53-1" transform="translate(95.701006,372.97289)">
+         <polygon class="st23" points="119.1,148.3 138.1,175.9 138.9,176.7 108.8,220.4 " id="polygon433-3"/>
+      </g>
+      <g id="Слой_51-9" transform="translate(95.701006,372.97289)">
+         <path class="st24" d="m 158,142 0.3,0.1 v 0 l -20.1,33.7 c 0,0 0,0 0,0 0,0.1 -0.1,0.1 -0.1,0.1 l -19,-27.7 c 0,0 0,0 0.1,0 z" id="path436-7"/>
+      </g>
+      <g id="Слой_50-3" transform="translate(95.701006,372.97289)">
+         <path class="st25" d="m 158.3,142.1 c 0,0 0,0 0,0 v 0 c 0,0.1 -0.1,0.1 -0.1,0.1 0,-0.1 0.1,-0.2 0.1,-0.1 z" id="path439-7"/>
+      </g>
+      <g id="Слой_49-5" transform="translate(95.701006,372.97289)">
+         <polygon class="st13" points="139,176.6 133,228 119.1,265.5 107.3,230.8 108.8,220.4 138.9,176.7 " id="polygon442-0"/>
+      </g>
+      <g id="Слой_48-2" transform="translate(95.701006,372.97289)">
+         <polygon class="st26" points="180.2,43.6 179.9,41.5 180.3,43.5 " id="polygon445-1"/>
+      </g>
+      <g id="Слой_47-8" transform="translate(95.701006,372.97289)">
+         <polygon class="st27" points="192.8,14 185.9,32.6 185.9,32.7 179,36 179.9,41.5 179,38 157.5,86.7 157,87.7 153.9,54.7 " id="polygon448-7"/>
+      </g>
+      <g id="Слой_46-1" transform="translate(95.701006,372.97289)">
+         <polygon class="st26" points="179.9,41.5 180.3,43.5 187.4,82 180.3,44.2 180.2,43.6 " id="polygon451-5"/>
+      </g>
+      <g id="Слой_45-5" transform="translate(95.701006,372.97289)">
+         <polygon class="st26" points="187.5,82.4 187.4,82 190.3,81.6 190.2,82.1 " id="polygon454-8"/>
+      </g>
+      <g id="Слой_44-5" transform="translate(95.701006,372.97289)">
+         <polygon class="st28" points="107.3,230.8 85.7,181.5 119.1,148.3 108.8,220.4 " id="polygon457-6"/>
+      </g>
+      <g id="Слой_43-7" transform="translate(95.701006,372.97289)">
+         <polygon class="st29" points="88.9,261.4 107.3,229.7 87,181 61.3,201.8 55.4,208.3 " id="polygon460-9"/>
+      </g>
+      <g id="Слой_42-4" transform="translate(95.701006,372.97289)">
+         <polygon class="st30" points="61.3,202.7 53.2,258.9 36.2,226.7 " id="polygon463-1"/>
+      </g>
+      <g id="Слой_41-6" transform="translate(95.701006,372.97289)">
+         <polygon class="st31" points="157,87.7 119.1,148.3 101.1,115.7 " id="polygon466-1"/>
+      </g>
+      <g id="Слой_40-2" transform="translate(95.701006,372.97289)">
+         <polygon class="st32" points="85.4,181.7 62.5,165.7 101.1,115.7 87,181 " id="polygon469-0"/>
+      </g>
+      <g id="Слой_39-4" transform="translate(95.701006,372.97289)">
+         <polygon class="st33" points="0.1,261.4 33.3,181.5 62.5,165.7 61.3,202.7 36.2,226.7 " id="polygon472-4"/>
+      </g>
+      <g id="Слой_38-5" transform="translate(95.701006,372.97289)">
+         <path class="st34" d="m 137.8,81.1 h -0.4 c 0,0 0,0 0,-0.1 0.3,0.1 0.4,0.1 0.4,0.1 z" id="path475-9"/>
+      </g>
+      <g id="Слой_36-3" transform="translate(95.701006,372.97289)">
+         <path class="st34" d="m 157,87.7 -53.1,28.6 -2.8,-0.5 8.9,-40.8 3,-1 c 0,0 3.2,-0.4 2,1 -0.4,0.3 -1.7,0.3 -2.1,0.5 0,0 0,0 0,0 0,0 0,0 0.1,0 0,0 0,0 0,0 0.1,0 0.2,0.1 0.4,0.1 0,0 0,0 0.1,0 0,0 0,0 0.1,0 0,0 0,0 0,0 3,1.1 21.2,4.8 24,5.3 0,0 0,0.1 0,0.1 h 0.4 c 0,0 -0.1,0 -0.4,-0.1 0,0 0.1,-0.1 0.2,-0.2 z" id="path481-9"/>
+      </g>
+      <g id="Слой_35-0" transform="translate(95.701006,372.97289)">
+         <path class="st35" d="m 113.4,75.7 c 0,0 0.1,0 0.1,0 0,0.1 0,0.1 -0.1,0 0,0 0,0 0,0 z" id="path484-5"/>
+      </g>
+      <g id="Слой_34-5" transform="translate(95.701006,372.97289)">
+         <path class="st35" d="m 149.9,63.1 c -2.5,5.9 -10.7,15.9 -12.2,17.7 -0.1,0.1 -0.2,0.2 -0.2,0.2 -2.8,-0.5 -20.9,-4.2 -24,-5.3 1.4,0.5 5,1.3 10,0.1 0.4,-0.1 0.8,-0.2 1.2,-0.3 7.1,-2.2 19.6,-7.1 19.6,-7.1 z" id="path487-6"/>
+      </g>
+      <g id="Слой_33-3" transform="translate(95.701006,372.97289)">
+         <polygon class="st36" points="147.1,54.4 138.1,39.5 137.9,39.1 136.8,36.7 169.8,38.2 154,54.9 153.9,54.7 " id="polygon490-2"/>
+      </g>
+      <g id="Слой_32-6" transform="translate(95.701006,372.97289)">
+         <path class="st37" d="m 123.2,55 c 0,-0.1 0,-0.1 0,0 0,-0.1 0,0 0,0 -0.1,0.1 -0.2,0.3 -0.3,0.4 0.2,-0.3 0.3,-0.4 0.3,-0.4 z" id="path493-8"/>
+      </g>
+      <g id="Слой_31-9" transform="translate(95.701006,372.97289)">
+         <path class="st37" d="m 132.2,53.8 v 0 0 h -0.3 c 0.1,0 0.3,0 0.3,0 z" id="path496-1"/>
+      </g>
+      <g id="Слой_29-4" transform="translate(95.701006,372.97289)">
+         <linear-leftGradient id="linear-leftGradient1807" gradientUnits="userSpaceOnUse" x1="28.6623" y1="84.137497" x2="102.6368" y2="84.137497">
+            <stop offset="0" id="stop1803"/>
+            <stop offset="0.9251" id="stop1805"/>
+         </linear-leftGradient>
+         <path class="st38 ear-left-outer" d="m 102.6,59.7 -1.3,0.9 -17,10.7 L 73.9,54.3 35,41 c 0,0 0.8,13.8 3.4,28.6 0.1,0.7 0.2,1.3 0.4,2 0.1,0.5 0.2,1 0.3,1.6 v 0 c 3.2,13 18.6,34.9 23.9,42.8 l -8,19 -0.8,-4.4 -24.3,-51 -1.2,-46.3 z" id="path505-8"/>
+      </g>
+      <g id="Слой_28-8" transform="translate(95.701006,372.97289)">
+         <linear-leftGradient id="linear-leftGradient1815" gradientUnits="userSpaceOnUse" x1="56.315899" y1="124.5139" x2="60.506901" y2="124.5139">
+            <stop offset="0" id="stop1811"/>
+            <stop offset="0.9251" id="stop1813"/>
+         </linear-leftGradient>
+         <path class="st39" d="m 62,116.1 -6.6,17 6.6,-17 c -0.1,-0.1 0,-0.1 0,0 z" id="path513-7" style="fill:url(#SVGID_2_-3)"/>
+      </g>
+      <g id="Слой_26-1" transform="translate(95.701006,372.97289)">
+         <path class="st40 ear-left-inner-top" d="M 84.4,71.2 84.1,71.4 80,80 38.4,69.3 C 35.8,54.5 34.1,40.5 34.1,40.5 l 39.8,13.4 z" id="path516-9"/>
+      </g>
+      <g id="Слой_23-1" transform="translate(95.701006,372.97289)">
+         <path class="st41" d="m 62,116.1 -6.6,17 6.6,-17 c -0.1,-0.1 0,-0.1 0,0 z" id="path522-4"/>
+      </g>
+      <g id="Слой_63-9" transform="translate(95.701006,372.97289)">
+         <polygon class="st42" points="239.4,161.9 224,157 230.9,132.4 " id="polygon525-5"/>
+      </g>
+      <g id="Слой_21-9" transform="translate(95.701006,372.97289)">
+         <polygon class="st33" points="132.2,53.8 143.5,54.3 " id="polygon528-0"/>
+      </g>
+      <g id="Слой_20-9" transform="translate(95.701006,372.97289)">
+         <path class="st29" d="m 132.2,53.8 v 0 0 c 0,0 0,0 0,0 z" id="path531-3"/>
+      </g>
+      <g id="Слой_19-4" transform="translate(95.701006,372.97289)">
+         <path class="st33" d="m 113.4,75.7 c -0.2,-0.1 -0.3,-0.1 -0.4,-0.1 0.1,0 0.2,0.1 0.4,0.1 z" id="path534-0"/>
+      </g>
+      <g id="Слой_16-7" transform="translate(95.701006,372.97289)">
+         <path class="st35" d="m 123.2,55 0.6,-0.8 c -0.2,0.2 -0.4,0.5 -0.6,0.8 0,-0.1 0,0 0,0 0,0 0,0 0,0 z" id="path541-5"/>
+      </g>
+      <g id="Слой_15-0" transform="translate(95.701006,372.97289)">
+         <path class="st35" d="m 132.2,53.8 v 0 0 h -0.3 c 0.1,0 0.3,0 0.3,0 z" id="path544-6"/>
+      </g>
+      <g id="Слой_13-8" transform="translate(95.701006,372.97289)">
+         <polygon class="st13" points="154.5,58.8 157,87.7 137,81 137.1,80.8 149.9,63.1 " id="polygon550-4"/>
+      </g>
+      <g id="Слой_12-0" transform="translate(95.701006,372.97289)">
+         <polygon class="st44" points="87,181 61.3,202.7 62.5,165.7 " id="polygon553-0"/>
+      </g>
+      <g id="Слой_10-6" transform="translate(95.701006,372.97289)">
+         <polygon class="st45 ear-right" points="109.6,55.4 110.1,33.3 132.1,42 " id="polygon556-2"/>
+      </g>
+      <g id="Слой_22-4" transform="translate(95.701006,372.97289)">
+         <path class="st46" d="m 154.4,54.2 -22.2,-0.9 h -0.3 l -0.1,0.2 c -1.1,1.6 -10.7,15.6 -17.9,20.8 -0.4,0.3 -0.8,0.5 -1.2,0.8 l -0.7,0.5 0.6,0.3 0.4,0.2 0.3,0.1 c 0.9,0.3 2.7,0.8 5.2,0.8 1.5,0 3.2,-0.2 5.2,-0.7 0.4,-0.1 0.8,-0.2 1.2,-0.3 7.1,-2.2 20,-6 20.1,-6 l 10.1,-11.1 z" id="path559-7"/>
+      </g>
+      <g id="Слой_11-4" transform="translate(95.701006,372.97289)">
+         <polygon class="st47" points="87,181 101.1,115.7 119.1,148.3 " id="polygon563-1"/>
+      </g>
+      <g id="Слой_8-8" transform="translate(95.701006,372.97289)">
+         <polygon class="st48" points="179.9,41.5 180.3,43.5 187.4,82 180.3,44.2 180.2,43.6 " id="polygon566-5"/>
+      </g>
+      <g id="Слой_7-8" transform="translate(95.701006,372.97289)">
+         <path class="st46" d="M 236.3,66.2 235,81 227.4,71.4 227,71.2 c -0.1,0.1 -0.3,0.1 -0.4,0.2 -8.6,4.4 -20.1,2.6 -20.1,2.6 l -0.3,0.2 -45.3,60.7 h -0.1 c -0.4,-8.3 -0.6,-26.4 -0.6,-26.4 l -3.2,-20.8 4.7,20.2 27.5,-25.3 0.8,-0.7 0.1,-0.1 0.1,-0.1 v 0 0 l 30.2,-42.4 z" id="path569-9"/>
+      </g>
+      <g id="Слой_6-9" transform="translate(95.701006,372.97289)">
+         <path class="st49" d="m 200.5,24 v -3 l -2.8,1.1 8.4,-21.8 -8.1,1.6 -5.2,12.1 c 0,0 -7.1,18.9 -6.9,18.8 0,-0.1 14.6,-8.8 14.6,-8.8 z" id="path572-9"/>
+      </g>
+      <g id="Слой_5-3" transform="translate(95.701006,372.97289)">
+         <polygon class="st8" points="157.7,87.5 187.4,82 190,81.6 190.1,81.6 190.3,81.6 190.1,81.7 190,81.8 189.2,82.5 161.7,107.9 157,87.7 " id="polygon575-3"/>
+      </g>
+      <g id="Слой_3-7" transform="translate(95.701006,372.97289)">
+         <polygon class="st46" points="157.5,86.7 157.7,87.5 161.7,107.9 157,87.7 " id="polygon578-7"/>
+      </g>
+      <g id="Слой_4-3" transform="translate(95.701006,372.97289)">
+         <polygon class="st47" points="" id="polygon581-2"/>
+      </g>
+      <g id="Слой_2-5" transform="translate(95.701006,372.97289)">
+         <polygon class="st9" points="187.4,82 157,87.7 179,36 179.9,41.5 180.2,43.6 180.3,44.2 " id="polygon584-6"/>
+      </g>
+      <g id="Слой_37-7" transform="translate(95.701006,372.97289)">
+         <polygon class="st29" points="62.5,165.7 74.3,97.8 109.7,72.9 110.7,74.9 101.1,115.7 " id="polygon478-5"/>
+      </g>
+      <g id="Слой_24-3" transform="translate(95.701006,372.97289)">
+         <path class="st13" d="m 133.7,41 c -0.7,0.9 -1.5,1.8 -2.2,2.7 -2.9,3.6 -5.4,7.1 -7.7,10.3 v 0.1 c -0.2,0.3 -0.4,0.5 -0.6,0.8 0,0 0,0 0,0 -0.1,0.1 -0.2,0.3 -0.3,0.4 0,0 0,0 0,0 -7.7,11 -11.9,19 -12.2,19.5 0,0 0,0 0,0 l -35.4,25 -12.7,65.9 -29.2,15.9 0.8,-1.8 20.1,-49.1 1.2,2.4 6.6,-17 c 0,0 0,0 0,-0.1 L 66,105.9 79,81.5 84,71 v 0 l 17.3,-10.4 17.2,-10.8 15,-8.6 z" id="path519-1" style="fill:#525252"/>
+      </g>
+      <g id="Слой_14-4" transform="translate(95.701006,372.97289)">
+         <path class="st35" d="m 136.8,36.7 -3.4,4.5 -1.9,2.6 -6.5,8.2 c 0,0 -1.6,2.7 -1.8,3 0,0 0,0 0,0 3.3,0.4 5.9,-0.5 7,-0.9 0.3,-0.1 0.5,-0.2 0.5,-0.2 h 1.1 0.3 v 0 l 11.3,0.4 3.6,0.1 z" id="path547-7"/>
+      </g>
+      <g id="Слой_18-7" transform="translate(95.701006,372.97289)">
+         <path class="st43" d="m 133,52 c 0,0 -2.7,0.9 -3,1 -1.1,0.4 -1.7,-0.6 -5,-1 -0.1,0.1 -2,3.2 -2.1,3.4 0,0 0,0 0,0 -7.7,11 -11.9,19 -12.2,19.5 0,0 0,0 0,0 l -0.6,1.6 0.2,-0.2 1.9,-1.4 c 0,0 3,-1.6 1.8,-0.2 7.4,-5.3 17.4,-19.9 18,-20.9 l 2,-0.8 z" id="path537-5"/>
+      </g>
+   </g>
+</svg>

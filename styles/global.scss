@@ -1,0 +1,35 @@
+@import 'blackhound-ui/breakpoints';
+@import 'blackhound-ui/container';
+@import 'blackhound-ui/spacing';
+
+html {
+  width: 100vw;
+  height: 100vh;
+
+  @include for-desktop-up {
+    max-width: $container-max-widths-xl;
+    margin: auto;
+  }
+
+  @include for-big-desktop-up {
+    max-width: $container-max-widths-xxl;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  @include for-phone-only {
+    hyphens: auto;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0 0 $spacer-3 0;
+}
