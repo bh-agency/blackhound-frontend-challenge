@@ -1,0 +1,51 @@
+@import '/src/styles/blackhound-ui/blackhound-ui.scss';
+
+.tanInput {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: $spacer-5 $spacer-4;
+    text-align: center;
+
+    @include for-desktop-up {
+        padding: $spacer-5;
+        width: 60%;
+        flex-direction: row;
+        column-gap: $spacer-6;
+    }
+
+    &__text {
+        font-size: $font-size-m;
+        font-weight: $font-weight-bold;
+        @include font-roboto;
+    }
+
+    &__section {
+        width: 100%;
+    }
+
+    &__wrapper {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 4rem;
+        column-gap: 0.2rem;
+    }
+
+    &__input {
+        width: 1.8rem;
+        height: 2.5rem;
+        text-align: center;
+        border: 1px solid $lightslategray-2;
+        border-radius: 5px;
+        font-size: $font-size-lg;
+        $font-weight-bold: bold;
+        @include font-quicksand;
+    }
+
+    input:focus {
+        outline: none;
+        border: 1px solid $pink-3;
+    }
+}

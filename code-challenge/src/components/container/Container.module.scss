@@ -1,0 +1,12 @@
+@import '/src/styles/blackhound-ui/blackhound-ui.scss';
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap-reverse;
+
+    @include for-desktop-up {
+        flex-wrap: nowrap;
+        height: calc(100vh - $spacer-6); // 100vh - header
+    }
+}

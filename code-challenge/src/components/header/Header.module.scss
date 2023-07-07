@@ -1,0 +1,29 @@
+@import '/src/styles/blackhound-ui/blackhound-ui.scss';
+
+.header {
+    width: 100%;
+    height: 3rem;
+    padding: $spacer-base 0;
+    text-align: center;
+
+    @include for-desktop-up {
+        padding: $spacer-5 0;
+    }
+    
+    &__container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: $spacer-base;;
+    }
+
+    &__logo {
+        width: 3em;
+        height: 3em;
+    }
+
+    &__brand {
+        @include font-quicksand;
+        font-size: $font-size-sm;
+    }
+}

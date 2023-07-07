@@ -1,0 +1,21 @@
+@import '/src/styles/blackhound-ui/blackhound-ui.scss';
+
+.explanation {
+    width: 100%;
+    padding: $spacer-5;
+    background-color: $pink-2;
+
+    &__headline {
+        font-size: $h1-font-size;
+        @include font-quicksand;
+    }
+
+    &__text {
+        font-size: $font-size-m;
+        @include font-roboto;
+    }
+
+    @include for-desktop-up{
+        width: 40%;
+    }
+}
