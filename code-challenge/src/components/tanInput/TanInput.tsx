@@ -17,12 +17,12 @@ export const TanInput: FC<Props> = (props) => {
     const onlyOneDigitPattern = /^\d$/;
 
     const [tanValues, setTanValues] = useState<TanState>({
+        tan0: "",
         tan1: "",
         tan2: "",
         tan3: "",
         tan4: "",
-        tan5: "",
-        tan6: ""
+        tan5: ""
     })
 
     //useref array for all Inputs
@@ -52,7 +52,7 @@ export const TanInput: FC<Props> = (props) => {
             [name]: value
         }));
 
-        const nextInputIndex = parseInt(name.slice(3));
+        const nextInputIndex = parseInt(name.slice(3)) + 1;
         focusInput(nextInputIndex);
     }
 
@@ -80,7 +80,7 @@ export const TanInput: FC<Props> = (props) => {
                 [name]: ""
             }));
 
-            const previousInputIndex = parseInt(name.slice(3)) - 2;
+            const previousInputIndex = parseInt(name.slice(3)) - 1;
             focusInput(previousInputIndex);
         }
     }
@@ -90,12 +90,12 @@ export const TanInput: FC<Props> = (props) => {
             <div className="tanInput__section">
                 <p className={`${styles['tanInput__text']}`}>Enter the tan:</p>
                 <div className={`${styles['tanInput__wrapper']}`}>
-                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan1' value={tanValues.tan1} placeholder='-' ref={inputRefs.current[0]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
-                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan2' value={tanValues.tan2} placeholder='-' ref={inputRefs.current[1]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
-                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan3' value={tanValues.tan3} placeholder='-' ref={inputRefs.current[2]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
-                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan4' value={tanValues.tan4} placeholder='-' ref={inputRefs.current[3]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
-                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan5' value={tanValues.tan5} placeholder='-' ref={inputRefs.current[4]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
-                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan6' value={tanValues.tan6} placeholder='-' ref={inputRefs.current[5]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
+                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan0' value={tanValues.tan0} placeholder='-' ref={inputRefs.current[0]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
+                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan1' value={tanValues.tan1} placeholder='-' ref={inputRefs.current[1]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
+                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan2' value={tanValues.tan2} placeholder='-' ref={inputRefs.current[2]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
+                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan3' value={tanValues.tan3} placeholder='-' ref={inputRefs.current[3]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
+                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan4' value={tanValues.tan4} placeholder='-' ref={inputRefs.current[4]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
+                    <input className={`${styles['tanInput__input']}`} type="text" maxLength={1} name='tan5' value={tanValues.tan5} placeholder='-' ref={inputRefs.current[5]} onChange={onHandleChange} onKeyDown={onHandleKeyDown} onFocus={onHandleFocus} />
                 </div>
             </div>
 
@@ -103,8 +103,8 @@ export const TanInput: FC<Props> = (props) => {
                 <p className={`${styles['tanInput__text']}`}>The created string:</p>
                 <div className={`${styles['tanInput__wrapper']}`}>
                     {Object.values(tanValues).map((value, i) => {
-                        if (value) return <span key={i} className={`${styles['tanInput__text']}`}>{value}</span>;
-                        else return <span key={i} className={`${styles['tanInput__text']}`}>-</span>;
+                        if (value) return <span key={i} className={`${styles['tanInput__output']}`}>{value}</span>;
+                        else return <span key={i} className={`${styles['tanInput__output']}`}>-</span>;
                     })}
                 </div>
             </div>

@@ -44,6 +44,12 @@
         @include font-quicksand;
     }
 
+    &__output {
+        font-size: $font-size-lg;
+        $font-weight-bold: bold;
+        @include font-quicksand;
+    }
+
     input:focus {
         outline: none;
         border: 1px solid $pink-3;
